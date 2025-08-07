@@ -1,4 +1,5 @@
-# Nintendo Switch UI Steam Deck Sound Pack
+# Nintendo Switch UI Sound Pack for Steam Deck
+
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7d5491c-5dd8-41d1-8274-2ba9236c00d6" />
 
 Sounds from Nintendo Switch home menu collected in a pack for deckthemes. All copyrights to Nintendo. 
